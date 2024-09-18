@@ -1,5 +1,4 @@
 import './App.css'
-import { BootstrapCss } from './Components/BootstrapCss/BootstrapCss'
 import { TailwindCss } from './Components/TailwindCss/TailwindCss'
 
 function App() {
@@ -11,9 +10,6 @@ function App() {
           <div className="w-[50%] bg-[#F5F7F8]">
             <TailwindCss />
           </div>
-          {/* <div className="w-[50%] bg-[#F5F7F8]">
-            <BootstrapCss />
-          </div> */}
 
         </div>
       </div>
